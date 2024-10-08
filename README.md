@@ -1,3 +1,6 @@
+![Banner](https://raw.githubusercontent.com/siddharthdobhal/siddharthdobhal/0d163947ad3b4b84eafb2f4653aedf4502152bd2/%40heysidio.png)
+
+
 # Hi there, I'm Siddharth! 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic **IT professional** and aspiring **Web Developer** with a background in **Information Technology**. I love creating clean and functional websites and software solutions that make an impact. Alongside my tech skills, I’m also a **video editor** and **graphic designer**, blending my technical and creative sides to bring projects to life.
