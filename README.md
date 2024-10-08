@@ -33,7 +33,30 @@ Welcome to my GitHub profile! I'm an enthusiastic **IT professional** and aspiri
 ## 💼 My Projects
 Here are a few projects I’m proud of:
 
-- **[Project Name 1](https://github.com/YOUR_USERNAME/PROJECT_NAME_1)**: Brief description of the project.
+- **[Project Name 1](https://github.com/siddharthdobhal/medical_shop.git)**: Medical Store Application
+Welcome to the Medical Store Application! This project is a comprehensive web-based solution for managing a medical store, featuring an intuitive admin panel for product management, user interaction, and payment processing.
+
+Features
+User Features:
+User Registration & Login: Users can register and log in to access their accounts.
+Browse Products: Users can view a list of available medical products with descriptions and prices.
+Add to Cart: Users can easily add products to their shopping cart.
+View Cart: Users can review their selected items before making a purchase.
+Admin Features:
+Admin Dashboard: A dedicated area for administrators to manage the store.
+Add/Update Products: Admins can easily add new products or update existing product details (name, description, price).
+View Users: Admins can view all registered users and their activities.
+Manage Orders: Admins can track and manage customer orders.
+Tech Stack
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
+Database: MySQL
+Web Server: Apache (using XAMPP)
+Installation
+Prerequisites
+XAMPP (or any local server environment)
+PHP (version 7.0 or higher)
+MySQL
 
 
 Thanks for visiting my profile, and feel free to connect! Let's create something amazing together. ✨
