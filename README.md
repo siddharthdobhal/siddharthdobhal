@@ -24,8 +24,6 @@ Welcome to my GitHub profile! I'm an enthusiastic **IT professional** and aspiri
 - Exploring **backend development** with **Express.js**
 - Looking into **cloud technologies** like **AWS** and **Azure**
 
-## 📈 GitHub Stats
-![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 - **Email**: [dobhal.sidharth770@gmail.com](mailto:dobhal.sidharth770@gmail.com)
