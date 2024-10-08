@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm an enthusiastic **IT professional** and aspiri
 ## 💼 My Projects
 Here are a few projects I’m proud of:
 
-- **[Project Name 1](https://github.com/siddharthdobhal/medical_shop.git)**: Medical Store Application
+- **[Project Name 1](https://github.com/siddharthdobhal/medical_shop.git)**: Medical Shop (Cure Corner)
 ##
 Welcome to the Medical Store Application! This project is a comprehensive web-based solution for managing a medical store, featuring an intuitive admin panel for product management, user interaction, and payment processing.
 
