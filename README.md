@@ -60,7 +60,7 @@ Features
 **MySQL
 
 
-- **[Portfolio Siddharth](https://github.com/siddharthdobhal/Portfolio)**:
+- **[Portfolio](https://github.com/siddharthdobhal/Portfolio)**:  Siddharth
 
 Welcome to my portfolio repository! This collection demonstrates my skills and projects in web development, focusing on WordPress, e-commerce solutions, and other front-end and back-end technologies. Here, you'll find examples of my work, including theme and plugin customization, responsive web design, and integrations with platforms like WooCommerce.
 
