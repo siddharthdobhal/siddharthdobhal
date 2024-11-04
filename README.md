@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm an enthusiastic **IT professional** and aspiri
 ## 💼 My Projects
 Here are a few projects I’m proud of:
 
-- **[Project Name 1](https://github.com/siddharthdobhal/medical_shop.git)**: Medical Shop (Cure Corner)
+- **[Medical Shop](https://github.com/siddharthdobhal/medical_shop.git)**:  (Cure Corner)
 ##
 Welcome to the Medical Store Application! This project is a comprehensive web-based solution for managing a medical store, featuring an intuitive admin panel for product management, user interaction, and payment processing.
 
@@ -58,6 +58,29 @@ Features
 **XAMPP (or any local server environment)
 **PHP (version 7.0 or higher)
 **MySQL
+
+
+- **Portfolio of [Siddharth] (https://github.com/siddharthdobhal/Portfolio)**:
+
+Welcome to my portfolio repository! This collection demonstrates my skills and projects in web development, focusing on WordPress, e-commerce solutions, and other front-end and back-end technologies. Here, you'll find examples of my work, including theme and plugin customization, responsive web design, and integrations with platforms like WooCommerce.
+
+## Table of Contents
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Contact](#contact)
+
+## About Me
+
+I am a passionate web developer with experience in WordPress customization, theme development, and e-commerce integrations. I am driven by a desire to create intuitive, engaging, and high-performing websites. My goal is to constantly learn and evolve my skills while contributing to innovative projects.
+
+## Skills
+
+- **Languages**: HTML, CSS, JavaScript, PHP
+- **Frameworks & Libraries**: Bootstrap
+- **Platforms**: WordPress
+- **Other**: Git, Responsive Web Design, Problem-Solving
+
 
 
 Thanks for visiting my profile, and feel free to connect! Let's create something amazing together. ✨
