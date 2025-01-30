@@ -47,7 +47,7 @@ This project is a comprehensive web-based solution for managing a medical store,
 🔧 Admin Features:
 ✔️ Admin Dashboard – Dedicated interface for managing the store.
 ✔️ Add/Update Products – Easily add new products or update existing ones.
-✔️ View Users – See registered users and their activities.
+✔️ View Users – See registered users and their activities
 ✔️ Manage Orders – Track and process customer orders.
 
 🛠️ Tech Stack
