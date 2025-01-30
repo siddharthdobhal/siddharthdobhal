@@ -64,6 +64,16 @@ Features
 
 Welcome to my portfolio repository! This collection demonstrates my skills and projects in web development, focusing on WordPress, e-commerce solutions, and other front-end and back-end technologies. Here, you'll find examples of my work, including theme and plugin customization, responsive web design, and integrations with platforms like WooCommerce.
 
+
+VintageVerse – (Retro Web Design Showcase) (https://vintageverse.vercel.app/) 
+A visually aesthetic, retro-inspired website showcasing classic UI design elements with a smooth scrolling experience.
+
+🛠️ Tech Stack:
+
+Frontend: HTML, CSS, JavaScript, GSAP, Locomotive Scroll
+Deployment: Vercel
+
+
 ## Table of Contents
 - [About Me](#about-me)
 - [Skills](#skills)
@@ -77,7 +87,7 @@ I am a passionate web developer with experience in WordPress customization, them
 ## Skills
 
 - **Languages**: HTML, CSS, JavaScript, PHP
-- **Frameworks & Libraries**: Bootstrap
+- **Frameworks & Libraries**: Bootstrap , Tailwind , React
 - **Platforms**: WordPress
 - **Other**: Git, Responsive Web Design, Problem-Solving
 
