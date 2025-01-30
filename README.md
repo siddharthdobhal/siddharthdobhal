@@ -34,65 +34,114 @@ Welcome to my GitHub profile! I'm an enthusiastic **IT professional** and aspiri
 Here are a few projects I’m proud of:
 
 🏥 Medical Store Application (Cure Corner)
+
 Welcome to the Medical Store Application!
+
 This project is a comprehensive web-based solution for managing a medical store, featuring an intuitive admin panel for product management, user interaction, and payment processing.
 
+
 🚀 Features
+
 🛒 User Features:
+
 ✔️ User Registration & Login – Users can create an account and log in securely.
+
 ✔️ Browse Products – View available medical products with descriptions & prices.
+
 ✔️ Add to Cart – Seamlessly add items to the shopping cart.
+
 ✔️ View Cart – Review selected products before making a purchase.
 
+
 🔧 Admin Features:
+
 ✔️ Admin Dashboard – Dedicated interface for managing the store.
+
 ✔️ Add/Update Products – Easily add new products or update existing ones.
+
 ✔️ View Users – See registered users and their activities
+
 ✔️ Manage Orders – Track and process customer orders.
 
+
 🛠️ Tech Stack
+
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP
+
 Database: MySQL
+
 Web Server: Apache (XAMPP)
+
 ⚙️ Installation & Setup
-📌 Prerequisites
+
+📌 Prerequisite
+
 Install XAMPP (or any local server environment)
+
 PHP 7.0 or higher
+
 MySQL
+
 🔗 GitHub Repository: Medical Store
 
 🖥️ Portfolio – Siddharth's Portfolio
+
 Welcome to my portfolio repository! This collection showcases my web development projects focused on WordPress, e-commerce solutions, and front-end & back-end technologies.
 
+
 🚀 What’s Inside?
+
 ✔️ WordPress Theme & Plugin Customization
+
 ✔️ Fully Responsive Web Design
+
+
 
 🛠️ Tech Stack
 Languages: HTML, CSS, JavaScript, PHP
+
 Frameworks & Libraries: Bootstrap
+
 Platforms: WordPress, WooCommerce
+
 Version Control: Git, GitHub
+
 🔗 GitHub Repository: Portfolio
 
+
 🎨 VintageVerse – (Retro Web Design Showcase)
+
 🌟 A visually aesthetic, retro-inspired website showcasing classic vintage UI elements with a smooth scrolling experience.
 
+
 🚀 Features
+
 ✔️ Vintage-style Web Design – Inspired by retro aesthetics.
+
 ✔️ GSAP Animations – Smooth motion effects for better interactivity.
+
 ✔️ Locomotive Scroll – Enhanced scroll-based experience.
+
+
 ✔️ Fully Responsive – Optimized for desktop, tablet, and mobile.
 
 🛠️ Tech Stack
+
 Frontend: HTML, CSS, JavaScript
+
 Libraries & Animations: GSAP, Locomotive Scroll
+
 Deployment: Vercel
+
 🔗 Live Demo: VintageVerse
+
 🔗 GitHub Repository: VintageVerse
 
+
 ## About Me
+
 
 I am a passionate web developer with experience in WordPress customization, theme development, and e-commerce integrations. I am driven by a desire to create intuitive, engaging, and high-performing websites. My goal is to constantly learn and evolve my skills while contributing to innovative projects.
 
