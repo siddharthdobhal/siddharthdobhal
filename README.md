@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm an enthusiastic **IT professional** and aspiri
 ## 🔧 Technologies & Tools
 - **Languages**: Python. PHP, JavaScript, HTML, CSS
 - **Frameworks/Libraries**: React, Node.js
-- **Databases**: MySQL, 
-- **Design**: Adobe Photoshop, Adobe Premiere Pro, Figma, Adobe Illustrator
+- **Databases**: MySQL, MongoDB
+- **Design**: Adobe Photoshop, Adobe Premiere Pro, Figma, Adobe Illustrator , Canva
 - **Version Control**: Git, GitHub
 
 ## 🌱 Currently Learning
