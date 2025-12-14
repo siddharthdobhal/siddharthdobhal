@@ -1,160 +1,104 @@
-![Banner](https://raw.githubusercontent.com/siddharthdobhal/siddharthdobhal/0d163947ad3b4b84eafb2f4653aedf4502152bd2/%40heysidio.png)
+<h1 align="center">Sid</h1>
+<h3 align="center">MERN Stack Developer • Clean Architecture • Thoughtful UI</h3>
 
+<p align="center">
+  <em>Building calm, reliable, and scalable web experiences.</em>
+</p>
 
-# Hi there, I'm Siddharth! 👋
+---
 
-Welcome to my GitHub profile! I'm an enthusiastic **IT professional** and aspiring **Web Developer** with a background in **Information Technology**. I love creating clean and functional websites and software solutions that make an impact. Alongside my tech skills, I’m also a **video editor** and **graphic designer**, blending my technical and creative sides to bring projects to life.
+## 🦊 About
 
-## 👨‍💻 About Me
-- 🎓 **BSc in Information Technology**
-- 💼 Previous experience as a **Senior Sales Officer at HDB Financial Services**
-- 🎥 Passionate about **video editing** and **storytelling through visuals**
-- 📍 Based in **New Tehri, Tehri Garhwal**
+I’m a **MERN Stack Developer** with a strong focus on  
+**clarity, structure, and long-term maintainability**.
 
+- Full-stack development with MongoDB, Express, React, Node.js
+- Clean API design & authentication flows
+- UI-aware engineering (spacing, hierarchy, consistency)
+- Prefer **minimal, dark, intentional design**
+- Always optimizing for **readability > hype**
 
-## 🔧 Technologies & Tools
-- **Languages**: Python. PHP, JavaScript, HTML, CSS
-- **Frameworks/Libraries**: React, Node.js
-- **Databases**: MySQL, MongoDB
-- **Design**: Adobe Photoshop, Adobe Premiere Pro, Figma, Adobe Illustrator , Canva
-- **Version Control**: Git, GitHub
+---
 
-## 🌱 Currently Learning
-- Deepening my knowledge of **React** and **Node.js**
-- Exploring **backend development** with **Express.js**
-- Looking into **cloud technologies** like **AWS** and **Azure**
+## 🧠 Core Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb&theme=dark" />
+</p>
 
-## 📫 How to Reach Me
-- **Email**: [dobhal.sidharth770@gmail.com](mailto:dobhal.sidharth770@gmail.com)
-- **LinkedIn**: [Siddharth Dobhal](https://www.linkedin.com/in/siddharth-dobhal/)
+---
 
+## 🎨 Frontend
 
-## 💼 My Projects
-Here are a few projects I’m proud of:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,redux,vite&theme=dark" />
+</p>
 
-🏥 Medical Store Application (Cure Corner)
+- Component-driven React architecture  
+- Responsive layouts with Tailwind CSS  
+- State management with Redux  
+- Performance-aware rendering  
 
-Welcome to the Medical Store Application!
+---
 
-This project is a comprehensive web-based solution for managing a medical store, featuring an intuitive admin panel for product management, user interaction, and payment processing.
+## ⚙️ Backend
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,jwt&theme=dark" />
+</p>
 
-🚀 Features
+- RESTful APIs with Express  
+- Secure authentication (JWT)  
+- MongoDB schema design  
+- Error handling & middleware patterns  
 
-🛒 User Features:
+---
 
-✔️ User Registration & Login – Users can create an account and log in securely.
+## 🛠 Tools & Workflow
 
-✔️ Browse Products – View available medical products with descriptions & prices.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+</p>
 
-✔️ Add to Cart – Seamlessly add items to the shopping cart.
+- Git-based workflow  
+- Clean commit history  
+- API testing with Postman  
+- VS Code + extensions for productivity  
 
-✔️ View Cart – Review selected products before making a purchase.
+---
 
+## 📌 Selected Work
 
-🔧 Admin Features:
+> Projects are pinned below and reflect:
+- Real-world MERN architecture
+- Authentication & authorization
+- Clean UI + structured backend
+- Readable, maintainable codebases
 
-✔️ Admin Dashboard – Dedicated interface for managing the store.
+*(More in progress)*
 
-✔️ Add/Update Products – Easily add new products or update existing ones.
+---
 
-✔️ View Users – See registered users and their activities
+## 📈 Activity
 
-✔️ Manage Orders – Track and process customer orders.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthdobhal&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthdobhal&theme=tokyonight&hide_border=true" />
+</p>
 
-🛠️ Tech Stack
+---
 
-Frontend: HTML, CSS, JavaScript
+## 📫 Contact
 
-Backend: PHP
+- GitHub: https://github.com/siddharthdobhal  
+- LinkedIn: *(add link)*  
+- Email: *(add email)*  
 
-Database: MySQL
+---
 
-Web Server: Apache (XAMPP)
-
-⚙️ Installation & Setup
-
-📌 Prerequisite
-
-Install XAMPP (or any local server environment)
-
-PHP 7.0 or higher
-
-MySQL
-
-🔗 GitHub Repository: Medical Store
-
-🖥️ Portfolio – Siddharth's Portfolio
-
-Welcome to my portfolio repository! This collection showcases my web development projects focused on WordPress, e-commerce solutions, and front-end & back-end technologies.
-
-
-🚀 What’s Inside?
-
-✔️ WordPress Theme & Plugin Customization
-
-✔️ Fully Responsive Web Design
-
-
-
-🛠️ Tech Stack
-Languages: HTML, CSS, JavaScript, PHP
-
-Frameworks & Libraries: Bootstrap
-
-Platforms: WordPress, WooCommerce
-
-Version Control: Git, GitHub
-
-🔗 GitHub Repository: Portfolio
-
-
-🎨 VintageVerse – (Retro Web Design Showcase)
-
-🌟 A visually aesthetic, retro-inspired website showcasing classic vintage UI elements with a smooth scrolling experience.
-
-
-🚀 Features
-
-✔️ Vintage-style Web Design – Inspired by retro aesthetics.
-
-✔️ GSAP Animations – Smooth motion effects for better interactivity.
-
-✔️ Locomotive Scroll – Enhanced scroll-based experience.
-
-
-✔️ Fully Responsive – Optimized for desktop, tablet, and mobile.
-
-🛠️ Tech Stack
-
-Frontend: HTML, CSS, JavaScript
-
-Libraries & Animations: GSAP, Locomotive Scroll
-
-Deployment: Vercel
-
-🔗 Live Demo: VintageVerse
-
-🔗 GitHub Repository: VintageVerse
-
-
-## About Me
-
-
-I am a passionate web developer with experience in WordPress customization, theme development, and e-commerce integrations. I am driven by a desire to create intuitive, engaging, and high-performing websites. My goal is to constantly learn and evolve my skills while contributing to innovative projects.
-
-## Skills
-
-- **Languages**: HTML, CSS, JavaScript, PHP
-- **Frameworks & Libraries**: Bootstrap , Tailwind , React
-- **Platforms**: WordPress
-- **Other**: Git, Responsive Web Design, Problem-Solving
-
-
-
-🚀 Let's Connect & Collaborate!
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Let’s create something amazing together. ✨
-
-
+<p align="center">
+  <em>Quiet design. Sharp code. Steady growth.</em>
+</p>
