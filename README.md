@@ -1,160 +1,83 @@
-![Banner](https://raw.githubusercontent.com/siddharthdobhal/siddharthdobhal/0d163947ad3b4b84eafb2f4653aedf4502152bd2/%40heysidio.png)
+<h1 align="center">Hey 👋, I'm Sid</h1>
+<h3 align="center">MERN Stack Developer | JavaScript Enthusiast | UI-Focused Builder</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddharthdobhal&label=Profile%20views&color=8b5cf6&style=flat" />
+</p>
 
-# Hi there, I'm Siddharth! 👋
+---
 
-Welcome to my GitHub profile! I'm an enthusiastic **IT professional** and aspiring **Web Developer** with a background in **Information Technology**. I love creating clean and functional websites and software solutions that make an impact. Alongside my tech skills, I’m also a **video editor** and **graphic designer**, blending my technical and creative sides to bring projects to life.
+## 🚀 About Me
 
-## 👨‍💻 About Me
-- 🎓 **BSc in Information Technology**
-- 💼 Previous experience as a **Senior Sales Officer at HDB Financial Services**
-- 🎥 Passionate about **video editing** and **storytelling through visuals**
-- 📍 Based in **New Tehri, Tehri Garhwal**
+- 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
+- 🎯 Focused on building **clean UI + scalable backend**
+- 🧠 Strong in **JavaScript, APIs, Auth, Databases**
+- 🎨 Design-aware developer (UI/UX mindset)
+- 🌱 Currently improving **system design & performance**
+- ⚡ Fun fact: I like things **minimal, dark & well-structured**
 
+---
 
-## 🔧 Technologies & Tools
-- **Languages**: Python. PHP, JavaScript, HTML, CSS
-- **Frameworks/Libraries**: React, Node.js
-- **Databases**: MySQL, MongoDB
-- **Design**: Adobe Photoshop, Adobe Premiere Pro, Figma, Adobe Illustrator , Canva
-- **Version Control**: Git, GitHub
+## 🛠️ Tech Stack
 
-## 🌱 Currently Learning
-- Deepening my knowledge of **React** and **Node.js**
-- Exploring **backend development** with **Express.js**
-- Looking into **cloud technologies** like **AWS** and **Azure**
+### 👨‍💻 Frontend
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss)
 
+### 🧠 Backend
+![Node](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+![JWT](https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens)
 
-## 📫 How to Reach Me
-- **Email**: [dobhal.sidharth770@gmail.com](mailto:dobhal.sidharth770@gmail.com)
-- **LinkedIn**: [Siddharth Dobhal](https://www.linkedin.com/in/siddharth-dobhal/)
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman)
 
+---
 
-## 💼 My Projects
-Here are a few projects I’m proud of:
+## 📌 Featured Projects
 
-🏥 Medical Store Application (Cure Corner)
+### 🔹 Full-Stack MERN App
+> Authentication, REST APIs, MongoDB, Responsive UI  
+🔗 Repo: *Pinned on profile*
 
-Welcome to the Medical Store Application!
+### 🔹 React UI Project
+> Clean UI, reusable components, performance-focused  
+🔗 Repo: *Pinned on profile*
 
-This project is a comprehensive web-based solution for managing a medical store, featuring an intuitive admin panel for product management, user interaction, and payment processing.
+### 🔹 Backend API
+> Node.js + Express + MongoDB, JWT Auth  
+🔗 Repo: *Pinned on profile*
 
+*(More coming soon 🚧)*
 
-🚀 Features
+---
 
-🛒 User Features:
+## 📈 GitHub Stats
 
-✔️ User Registration & Login – Users can create an account and log in securely.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthdobhal&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-✔️ Browse Products – View available medical products with descriptions & prices.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthdobhal&theme=tokyonight&hide_border=true" />
+</p>
 
-✔️ Add to Cart – Seamlessly add items to the shopping cart.
+---
 
-✔️ View Cart – Review selected products before making a purchase.
+## 📫 Connect With Me
 
+- 💼 LinkedIn: *(add your link)*
+- 📧 Email: *(add your email)*
 
-🔧 Admin Features:
+---
 
-✔️ Admin Dashboard – Dedicated interface for managing the store.
-
-✔️ Add/Update Products – Easily add new products or update existing ones.
-
-✔️ View Users – See registered users and their activities
-
-✔️ Manage Orders – Track and process customer orders.
-
-
-🛠️ Tech Stack
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: PHP
-
-Database: MySQL
-
-Web Server: Apache (XAMPP)
-
-⚙️ Installation & Setup
-
-📌 Prerequisite
-
-Install XAMPP (or any local server environment)
-
-PHP 7.0 or higher
-
-MySQL
-
-🔗 GitHub Repository: Medical Store
-
-🖥️ Portfolio – Siddharth's Portfolio
-
-Welcome to my portfolio repository! This collection showcases my web development projects focused on WordPress, e-commerce solutions, and front-end & back-end technologies.
-
-
-🚀 What’s Inside?
-
-✔️ WordPress Theme & Plugin Customization
-
-✔️ Fully Responsive Web Design
-
-
-
-🛠️ Tech Stack
-Languages: HTML, CSS, JavaScript, PHP
-
-Frameworks & Libraries: Bootstrap
-
-Platforms: WordPress, WooCommerce
-
-Version Control: Git, GitHub
-
-🔗 GitHub Repository: Portfolio
-
-
-🎨 VintageVerse – (Retro Web Design Showcase)
-
-🌟 A visually aesthetic, retro-inspired website showcasing classic vintage UI elements with a smooth scrolling experience.
-
-
-🚀 Features
-
-✔️ Vintage-style Web Design – Inspired by retro aesthetics.
-
-✔️ GSAP Animations – Smooth motion effects for better interactivity.
-
-✔️ Locomotive Scroll – Enhanced scroll-based experience.
-
-
-✔️ Fully Responsive – Optimized for desktop, tablet, and mobile.
-
-🛠️ Tech Stack
-
-Frontend: HTML, CSS, JavaScript
-
-Libraries & Animations: GSAP, Locomotive Scroll
-
-Deployment: Vercel
-
-🔗 Live Demo: VintageVerse
-
-🔗 GitHub Repository: VintageVerse
-
-
-## About Me
-
-
-I am a passionate web developer with experience in WordPress customization, theme development, and e-commerce integrations. I am driven by a desire to create intuitive, engaging, and high-performing websites. My goal is to constantly learn and evolve my skills while contributing to innovative projects.
-
-## Skills
-
-- **Languages**: HTML, CSS, JavaScript, PHP
-- **Frameworks & Libraries**: Bootstrap , Tailwind , React
-- **Platforms**: WordPress
-- **Other**: Git, Responsive Web Design, Problem-Solving
-
-
-
-🚀 Let's Connect & Collaborate!
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Let’s create something amazing together. ✨
-
-
+<p align="center">
+  <i>“Build clean. Think scalable. Ship fast.”</i>
+</p>
