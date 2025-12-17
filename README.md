@@ -1,160 +1,100 @@
-![Banner](https://raw.githubusercontent.com/siddharthdobhal/siddharthdobhal/0d163947ad3b4b84eafb2f4653aedf4502152bd2/%40heysidio.png)
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siddharthdobhal/siddharthdobhal/0d163947ad3b4b84eafb2f4653aedf4502152bd2/%40heysidio.png" alt="Sid Banner" />
+</p>
 
+<h1 align="center">👋 Hey, I’m <b>Siddharth (Sid)</b></h1>
+<p align="center">💻 Full-Stack Web Developer | Creative Technologist | UI/UX Lover</p>
 
-# Hi there, I'm Siddharth! 👋
+---
 
-Welcome to my GitHub profile! I'm an enthusiastic **IT professional** and aspiring **Web Developer** with a background in **Information Technology**. I love creating clean and functional websites and software solutions that make an impact. Alongside my tech skills, I’m also a **video editor** and **graphic designer**, blending my technical and creative sides to bring projects to life.
+## 🧠 About Me
+- 🎓 <b>BSc in Information Technology</b>
+- 💼 Software Engineer (Web & Apps)
+- 🎨 Passionate about **Web Dev, Design & Digital Storytelling**
+- 📍 Based in **Uttarakhand, India**
+- 💡 Always building, designing & learning
 
-## 👨‍💻 About Me
-- 🎓 **BSc in Information Technology**
-- 💼 Previous experience as a **Senior Sales Officer at HDB Financial Services**
-- 🎥 Passionate about **video editing** and **storytelling through visuals**
-- 📍 Based in **New Tehri, Tehri Garhwal**
+---
 
+## 🚀 GitHub Stats
 
-## 🔧 Technologies & Tools
-- **Languages**: Python. PHP, JavaScript, HTML, CSS
-- **Frameworks/Libraries**: React, Node.js
-- **Databases**: MySQL, MongoDB
-- **Design**: Adobe Photoshop, Adobe Premiere Pro, Figma, Adobe Illustrator , Canva
-- **Version Control**: Git, GitHub
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=siddharthdobhal&show_icons=true&theme=radical" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthdobhal&theme=radical" />
+</p>
 
-## 🌱 Currently Learning
-- Deepening my knowledge of **React** and **Node.js**
-- Exploring **backend development** with **Express.js**
-- Looking into **cloud technologies** like **AWS** and **Azure**
+---
 
+## 💻 Tech Stack
 
-## 📫 How to Reach Me
-- **Email**: [dobhal.sidharth770@gmail.com](mailto:dobhal.sidharth770@gmail.com)
-- **LinkedIn**: [Siddharth Dobhal](https://www.linkedin.com/in/siddharth-dobhal/)
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-## 💼 My Projects
-Here are a few projects I’m proud of:
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
-🏥 Medical Store Application (Cure Corner)
+  <!-- Design -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+</p>
 
-Welcome to the Medical Store Application!
+---
 
-This project is a comprehensive web-based solution for managing a medical store, featuring an intuitive admin panel for product management, user interaction, and payment processing.
+## ✨ Featured Projects
 
+### 🏥 **Cure Corner — Medical Store App**
+Web application for managing medical store inventory & orders.
 
-🚀 Features
+🔹 **Tech:** HTML, CSS, JavaScript, PHP, MySQL  
+🔗 **Repo:** https://github.com/siddharthdobhal/Medical-Store  
+⭐ Admin panel • Cart • User Auth • Order tracking
 
-🛒 User Features:
+---
 
-✔️ User Registration & Login – Users can create an account and log in securely.
+### 🌐 **Portfolio Website**
+A fully responsive personal portfolio to showcase Dev & Creative work.
 
-✔️ Browse Products – View available medical products with descriptions & prices.
+🔹 **Tech:** WordPress, Bootstrap, PHP  
+🔗 https://github.com/siddharthdobhal/Portfolio
 
-✔️ Add to Cart – Seamlessly add items to the shopping cart.
+---
 
-✔️ View Cart – Review selected products before making a purchase.
+### 🎨 **VintageVerse — Retro Aesthetic Showcase**
+A smooth retro UI web experience with animations.
 
+🔹 **Tech:** GSAP, Locomotive Scroll, JavaScript  
+🔗 https://github.com/siddharthdobhal/VintageVerse
 
-🔧 Admin Features:
+---
 
-✔️ Admin Dashboard – Dedicated interface for managing the store.
+## 📫 Connect With Me
 
-✔️ Add/Update Products – Easily add new products or update existing ones.
+<p align="center">
+  <a href="mailto:dobhal.sidharth770@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/siddharth-dobhal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/heysidio"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-✔️ View Users – See registered users and their activities
+---
 
-✔️ Manage Orders – Track and process customer orders.
+## 💬 Fun Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthdobhal&layout=compact&theme=radical" />
+</p>
 
-🛠️ Tech Stack
+---
 
-Frontend: HTML, CSS, JavaScript
-
-Backend: PHP
-
-Database: MySQL
-
-Web Server: Apache (XAMPP)
-
-⚙️ Installation & Setup
-
-📌 Prerequisite
-
-Install XAMPP (or any local server environment)
-
-PHP 7.0 or higher
-
-MySQL
-
-🔗 GitHub Repository: Medical Store
-
-🖥️ Portfolio – Siddharth's Portfolio
-
-Welcome to my portfolio repository! This collection showcases my web development projects focused on WordPress, e-commerce solutions, and front-end & back-end technologies.
-
-
-🚀 What’s Inside?
-
-✔️ WordPress Theme & Plugin Customization
-
-✔️ Fully Responsive Web Design
-
-
-
-🛠️ Tech Stack
-Languages: HTML, CSS, JavaScript, PHP
-
-Frameworks & Libraries: Bootstrap
-
-Platforms: WordPress, WooCommerce
-
-Version Control: Git, GitHub
-
-🔗 GitHub Repository: Portfolio
-
-
-🎨 VintageVerse – (Retro Web Design Showcase)
-
-🌟 A visually aesthetic, retro-inspired website showcasing classic vintage UI elements with a smooth scrolling experience.
-
-
-🚀 Features
-
-✔️ Vintage-style Web Design – Inspired by retro aesthetics.
-
-✔️ GSAP Animations – Smooth motion effects for better interactivity.
-
-✔️ Locomotive Scroll – Enhanced scroll-based experience.
-
-
-✔️ Fully Responsive – Optimized for desktop, tablet, and mobile.
-
-🛠️ Tech Stack
-
-Frontend: HTML, CSS, JavaScript
-
-Libraries & Animations: GSAP, Locomotive Scroll
-
-Deployment: Vercel
-
-🔗 Live Demo: VintageVerse
-
-🔗 GitHub Repository: VintageVerse
-
-
-## About Me
-
-
-I am a passionate web developer with experience in WordPress customization, theme development, and e-commerce integrations. I am driven by a desire to create intuitive, engaging, and high-performing websites. My goal is to constantly learn and evolve my skills while contributing to innovative projects.
-
-## Skills
-
-- **Languages**: HTML, CSS, JavaScript, PHP
-- **Frameworks & Libraries**: Bootstrap , Tailwind , React
-- **Platforms**: WordPress
-- **Other**: Git, Responsive Web Design, Problem-Solving
-
-
-
-🚀 Let's Connect & Collaborate!
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Let’s create something amazing together. ✨
-
-
+✨ **Thanks for visiting! Let’s build something amazing together!** 🌟
